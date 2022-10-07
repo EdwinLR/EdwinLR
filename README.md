@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdwinLR
-- 👀 I’m interested in automation and automotive systems.
+- 👀 I’m interested in data analysis and automotive systems.
 - 🌱 I’m currently studying B.SEng.
 - 💞️ I’m looking to collaborate on automotive industry.
 - 📫 How to reach me:
